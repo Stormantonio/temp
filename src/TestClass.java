@@ -4,7 +4,8 @@ public class TestClass {
         System.out.println("Hello");
         System.out.println("Hello2 World");
         System.out.println("Hello2 World2");
-        System.out.println("Hello2 Test World3");
+        String s = "Test";
+        System.out.println(s);
         System.out.println("Hello333 World3");
     }
 }
